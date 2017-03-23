@@ -1,0 +1,83 @@
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+}
+
+body {
+  background: pink;
+}
+
+button {
+  width: 120px;
+  height: 120px;
+  margin: 0 auto;
+  background-color: blue;
+  border-color: blue;
+  color: blue;
+  padding: 0px;
+  align-items: flex-start;
+}
+
+  .container {
+    margin: 0 auto;
+    max-width: 900px;
+    width: 90%;
+    background: yellow;
+  }
+
+  .grid {
+    align-items:center;
+    /*margin: 0 auto;*/
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .box {
+    background-color: blue;
+    width: 120px;
+    height: 120px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 0 auto;
+  }
+
+
+/*This is from the Udemy course*/
+
+/*table {
+  background= red;
+  width= 900px;
+  height= 900px;
+}*/
+
+/*h1 {
+  text-align: center;
+}
+
+table {
+  margin: auto;
+}
+
+td {
+  width= 100px;
+  height= 100px;
+  background=pink;
+}
+
+.vertical {
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+
+.horizontal {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}*/
+
+/*.table{
+  background=pink;
+}*/
